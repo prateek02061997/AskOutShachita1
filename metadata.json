@@ -1,0 +1,6 @@
+{
+  "name": "A Cute Music Story",
+  "description": "An interactive, music-themed story experience asking a friend out for coffee in a playful, low-pressure way.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
